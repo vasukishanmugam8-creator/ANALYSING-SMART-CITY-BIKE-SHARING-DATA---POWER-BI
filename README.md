@@ -10,7 +10,7 @@
 
 
 ## 📊 Project Overview
--he goal of this analysis is to visualize key performance indicators (KPIs) for a bike-sharing service. It covers station availability, peak usage times, geographic distribution to help city planners optimize bike distribution.
+-The goal of this analysis is to visualize key performance indicators (KPIs) for a bike-sharing service. It covers station availability, peak usage times, geographic distribution to help city planners optimize bike distribution.
  
 
 ## 🛠️ Tools & Technologies 
